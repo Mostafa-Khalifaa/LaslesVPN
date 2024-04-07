@@ -1,5 +1,5 @@
 # LaslesVPN
-[![GitHub Logo](https://img.icons8.com/ios-filled/50/000000/github.png)](https://github.com/Mostafa-Khalifaa)
+[![GitHub Logo](https://img.icons8.com/fluency/48/000000/github.png)](https://github.com/Mostafa-Khalifaa)
 
 
 ## Skills
