@@ -1,4 +1,6 @@
 # LaslesVPN
+[![GitHub Logo](https://img.icons8.com/ios-filled/50/000000/github.png)](https://github.com/Mostafa-Khalifaa)
+
 
 ## Skills
 
@@ -24,4 +26,4 @@
 
 You can view a live demo of LaslesVPN [here](https://mostafa-khalifaa.github.io/LaslesVPN/).
 
-[My profile](https://github.com/Mostafa-Khalifaa).
+
