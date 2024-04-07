@@ -1,10 +1,5 @@
 # LaslesVPN
 
-[My profile](https://github.com/Mostafa-Khalifaa).
-## Summary
-
-Enthusiastic Frontend Developer with a passion for crafting responsive and visually captivating web applications. Proficient in HTML and CSS, with hands-on experience developing projects like LaslesVPN. Adept at translating design concepts into interactive user experiences.
-
 ## Skills
 
 - HTML5
@@ -16,8 +11,7 @@ Enthusiastic Frontend Developer with a passion for crafting responsive and visua
 - Attention to Detail
 - Collaboration
 
-## Projects
-
+## Project
 ### LaslesVPN
 
 - **GitHub Repository:** [LaslesVPN](https://github.com/Mostafa-Khalifaa/LaslesVPN)
@@ -30,4 +24,4 @@ Enthusiastic Frontend Developer with a passion for crafting responsive and visua
 
 You can view a live demo of LaslesVPN [here](https://mostafa-khalifaa.github.io/LaslesVPN/).
 
-
+[My profile](https://github.com/Mostafa-Khalifaa).
